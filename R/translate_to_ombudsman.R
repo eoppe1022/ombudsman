@@ -20,6 +20,7 @@ translate_to_ombudsman <- function(text) {
                                "\\bfor\\b" = "4",
                                "\\braleigh\\b" = "raleigh-durham",
                                "\\bnorth carolina" = "carolina",
+                               "\\bsouth carolina" = "carolina",
                                "\\bforslund\\b" = "4slund",
                                "\\bwilliam\\b" = "willy",
                                "\\bnylander\\b" = "nelander",
