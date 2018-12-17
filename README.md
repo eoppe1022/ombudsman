@@ -1,5 +1,5 @@
 # ombudsman
-Translate Text to Canes Ombudsman-speak
+A Package to Translate Text to Canes Ombudsman-speak
 
 ## Installation
 You can install `ombudsman` from github with:
