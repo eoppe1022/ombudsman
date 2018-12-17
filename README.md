@@ -2,7 +2,7 @@
 Translate Text to Canes Ombudsman-speak
 
 ## Installation
-You can install `elite` from github with:
+You can install `ombudsman` from github with:
 ````
 # install.packages("devtools")
 devtools::install_github("eoppe1022/ombudsman", force = TRUE)
