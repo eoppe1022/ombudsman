@@ -123,7 +123,3 @@ translate_to_ombudsman <- function(text) {
   return(ombudsman_text)
   
 }
-
-library(dplyr)
-
-translate_to_ombudsman("Hi everyone, it's me: the Canes Ombudsman")
