@@ -1,6 +1,8 @@
 # ombudsman
 A Package to Translate Text to Canes Ombudsman-speak
 
+Canes Ombudsman ([@CanesOmbudsman](https://twitter.com/CanesOmbudsman) on Twitter), if you aren't familiar, is a Twitter celebrity. This package is an attempt to allow us average-Joes the opportunity to communicate with him on his level.
+
 ## Installation
 You can install `ombudsman` from github with:
 ````
@@ -17,7 +19,7 @@ library(ombudsman)
 The `ombudsman` package is built on 1 function:
 - `translate_to_ombudsman()`
 
-which translates a user-supplied string of text (any text within quotes) to Ombudsman-speak.
+which translates a user-supplied string of text (any text within quotes) to Canes Ombudsman-speak.
 
 ## Examples
 ````
