@@ -19,6 +19,7 @@ translate_to_ombudsman <- function(text) {
     stringr::str_replace_all(c("\\bfour\\b" = "4", 
                                "\\bfor\\b" = "4",
                                "\\braleigh\\b" = "raleigh-durham",
+                               "\\bnorth carolina" = "carolina",
                                "\\bforslund\\b" = "4slund",
                                "\\bwilliam\\b" = "willy",
                                "\\bnylander\\b" = "nelander",
