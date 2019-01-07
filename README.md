@@ -3,6 +3,8 @@ A Package to Translate Text to Canes Ombudsman-speak
 
 Canes Ombudsman ([@CanesOmbudsman](https://twitter.com/CanesOmbudsman) on Twitter), if you aren't familiar, is a Twitter celebrity. This package is an attempt to allow us average-Joes the opportunity to communicate with him on his level.
 
+Try out my interactive web-application for the Canes Ombudsman translator [here](https://evan-oppenheimer.shinyapps.io/Ombudsman/).
+
 ## Installation
 You can install `ombudsman` from github with:
 ````
